@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Himu",
+        "author": "Humayun Ahmed",
+        "isbn": "9847012345678",
+        "genre": "Fiction",
+        "price": 300.0,
+        "quantity": 15
+    },
+    {
+        "title": "Misir Ali! Uthchhen Keno?",
+        "author": "Humayun Ahmed",
+        "isbn": "9847012345679",
+        "genre": "Mystery",
+        "price": 350.0,
+        "quantity": 10
+    },
+    {
+        "title": "Srikanta",
+        "author": "Sharatchandra Chattopadhyay",
+        "isbn": "9847012345680",
+        "genre": "Classic",
+        "price": 400.0,
+        "quantity": 8
+    },
+    {
+        "title": "Devdas",
+        "author": "Sharatchandra Chattopadhyay",
+        "isbn": "9847012345681",
+        "genre": "Classic",
+        "price": 450.0,
+        "quantity": 12
+    },
+    {
+        "title": "Gitanjali",
+        "author": "Rabindranath Tagore",
+        "isbn": "9847012345682",
+        "genre": "Poetry",
+        "price": 500.0,
+        "quantity": 20
+    },
+    {
+        "title": "Chokher Bali",
+        "author": "Rabindranath Tagore",
+        "isbn": "9847012345683",
+        "genre": "Fiction",
+        "price": 550.0,
+        "quantity": 18
+    },
+    {
+        "title": "\"Chokher Bali\"",
+        "author": "\"Rabindra Nath\"",
+        "isbn": "985744460",
+        "genre": "classical",
+        "price": 630.0,
+        "quantity": 3
+    }
+]

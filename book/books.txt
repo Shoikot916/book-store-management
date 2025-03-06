@@ -1,0 +1,6 @@
+Title: Himu | Author: Humayun Ahmed | ISBN: 9847012345678 | Genre: Fiction | Price: 300.00 | Quantity: 15
+Title: Misir Ali! Uthchhen Keno? | Author: Humayun Ahmed | ISBN: 9847012345679 | Genre: Mystery | Price: 350.00 | Quantity: 10
+Title: Srikanta | Author: Sharatchandra Chattopadhyay | ISBN: 9847012345680 | Genre: Classic | Price: 400.00 | Quantity: 8
+Title: Devdas | Author: Sharatchandra Chattopadhyay | ISBN: 9847012345681 | Genre: Classic | Price: 450.00 | Quantity: 12
+Title: Gitanjali | Author: Rabindranath Tagore | ISBN: 9847012345682 | Genre: Poetry | Price: 500.00 | Quantity: 20
+Title: Chokher Bali | Author: Rabindranath Tagore | ISBN: 9847012345683 | Genre: Fiction | Price: 550.00 | Quantity: 18
